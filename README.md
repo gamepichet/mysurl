@@ -5,6 +5,7 @@ this file is set for setup on localhost only if want to
 setup on hosting you must config
 1. app/Congig/App.php -> set $baseURL='yoursite'
 2. make your database -> set hostname, databasename, database password on app/Congig/Database.php
+
 make database with code
 ---------------------------------------------------------
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
